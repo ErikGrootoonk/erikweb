@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "personal webpage",
   "main": "index.html",
+  
   "scripts": {
+    "build":"Azure",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
