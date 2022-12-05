@@ -5,7 +5,7 @@
   "main": "index.html",
   
   "scripts": {
-    "build":"Azure",
+    "build":"npm run build:Azure",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
