@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.2.7 | MIT License | https://tailwindcss.com
+! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -551,12 +551,12 @@ video {
   position: fixed;
 }
 
-.ml-4 {
-  margin-left: 1rem;
-}
-
 .mt-4 {
   margin-top: 1rem;
+}
+
+.ml-4 {
+  margin-left: 1rem;
 }
 
 .flex {
@@ -570,6 +570,10 @@ video {
 .w-max {
   width: -moz-max-content;
   width: max-content;
+}
+
+.w-1\/2 {
+  width: 50%;
 }
 
 .flex-col {
