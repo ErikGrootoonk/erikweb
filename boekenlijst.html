@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./dist/style.css">
     <title>boekenlijst-erikweb</title>
 </head>
-<nav class="bg-slate-800 text-white">
+<nav class="bg-yellow-600 text-white">
     <a href="index.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Home</a>
     <a href="berlijn.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Berlijn</a>
     <a href="boeken.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Boeken</a>
@@ -15,10 +15,17 @@
     <a href="test.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Test</a>
 </nav>
 
-<body>
+<body class="bg-yellow-800">
 
+    
+    <!--  Create a container for the search field and grid -->
+    <div class="container mx-auto p-4 bg-yellow-800">
+        <div class="mb-4">
+            <input id="searchInput" type="text" placeholder="Search..." class="w-full px-4 py-2 rounded-md shadow-md focus:outline-none focus:ring focus:border-blue-300" />
+        </div>
 
-    <div id="grid" class="table-auto text-white bg-slate-800"></div>
+        <div id="grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    </div>
     
 
 
