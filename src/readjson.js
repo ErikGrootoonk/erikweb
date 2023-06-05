@@ -1,4 +1,3 @@
-
 // Load the JSON file using Fetch API
 fetch('boekenlijst.json')
   .then(response => response.json())
@@ -21,10 +20,28 @@ fetch('boekenlijst.json')
         return false;
       });
       
-      renderGrid(filteredData);
+      const sortedData = sortData(filteredData, 'achternaam');
+      
+      renderGrid(sortedData);
     };
     
-    // Function to render the grid with the filtered data
+    // Function to sort the data based on a given key
+    const sortData = (data, key) => {
+      return data.slice().sort((a, b) => {
+        const valueA = a[key].toLowerCase();
+        const valueB = b[key].toLowerCase();
+        
+        if (valueA < valueB) {
+          return -1;
+        }
+        if (valueA > valueB) {
+          return 1;
+        }
+        return 0;
+      });
+    };
+    
+    // Function to render the grid with the filtered and sorted data
     const renderGrid = (filteredData) => {
       gridDiv.innerHTML = '';
       
@@ -52,13 +69,11 @@ fetch('boekenlijst.json')
       });
     };
     
-    // Add event listener to the search input for filtering data
+    // Add event listener to the search input for filtering and sorting data
     searchInput.addEventListener('input', filterData);
     
     // Render the initial grid
-    renderGrid(data);
+    const sortedData = sortData(data, 'achternaam');
+    renderGrid(sortedData);
   })
   .catch(error => console.error(error));
-
-
-
