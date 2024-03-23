@@ -1,31 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="./dist/style.css">
-        <title>home - erikweb</title>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 
-    <body class="bg-yellow-800">
+    <link rel="stylesheet" href="./dist/style.css">
+    <title>home - erikweb</title>
+</head>
 
-        <nav class="bg-yellow-600 text-white">
-            <a href="index.html"
-                class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Home</a>
-            <a href="berlijn.html"
-                class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Berlijn</a>
-            <a href="boekenlijst.html"
-                class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Boeken</a>
-            <a href="fodmaplijst.html"
-                class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">FODMAPlijst</a>
-            <a href="verhalen.html"
-                class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Verhalen</a>
-        </nav>
+<nav class="bg-cyan-950 text-white font-poppins">
+    <a href="index.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Home</a>
+    <a href="berlijn.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Berlijn</a>
+    <a href="boekenlijst.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Boeken</a>
+    <a href="fodmaplijst.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">FODMAPlijst</a>
+    <a href="verhalen.html" class="inline-block py-2 px-4 font-bold uppercase text-lg no-underline">Verhalen</a>
+</nav>
 
-        <div
-            class="flex flex-col bg-yellow-600 bg-opacity-90 text-white p-2 m-2 max-w-sm">
+<body class="bg-cyan-600 font-poppins">
+    <div class="flex flex-col md:flex-row">
+        <div class="flex-col text-lg bg-cyan-50 p-6 m-6 md:w-1/2">
             <p class="font-bold">Welkom op ErikWeb</p>
             <p>Dit is een persoonlijk blog over de dingen die me bezighouden</p>
             <p class="font-bold">FODMAP beperkt dieet</p>
@@ -48,9 +48,14 @@
                 onconventionele liefdesrelaties. De schrijfstijl
                 is vrij direct en alles wordt expliciet beschreven. Kijk voor
                 boeken die ik de laatste tijd gelezen heb op pagina
-                <a href="boekenlijst.html" class="font-bold">boeken</a></p>
+                <a href="boekenlijst.html" class="font-bold">boeken</a>
+            </p>
         </div>
 
-    </body>
+        <div class="p-6 md:w-1/2">
+            <img src="./img/sbahn.jpg" class="w-full h-auto" alt="">
+        </div>
+    </div>
+</body>
 
 </html>
