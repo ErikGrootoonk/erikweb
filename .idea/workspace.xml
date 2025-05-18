@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f8e03c2-70d9-4f78-b1cf-af880fe7ee4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/erikweb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/erikweb.iml" afterDir="false" />
+    <list default="true" id="8f8e03c2-70d9-4f78-b1cf-af880fe7ee4c" name="Changes" comment="boek toegevoegd en boek_manager script toegevoegd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/berlijn.html" beforeDir="false" afterPath="$PROJECT_DIR$/berlijn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boekenlijst.json" beforeDir="false" afterPath="$PROJECT_DIR$/boekenlijst.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,12 +75,25 @@
       <workItem from="1747250222630" duration="239000" />
       <workItem from="1747250504103" duration="2404000" />
       <workItem from="1747285180420" duration="10000" />
-      <workItem from="1747562501955" duration="956000" />
+      <workItem from="1747562501955" duration="2495000" />
     </task>
+    <task id="LOCAL-00001" summary="boek toegevoegd en boek_manager script toegevoegd">
+      <option name="closed" value="true" />
+      <created>1747563635008</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747563635008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="boek toegevoegd en boek_manager script toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="boek toegevoegd en boek_manager script toegevoegd" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/erikweb$book_manager.coverage" NAME="book_manager Coverage Results" MODIFIED="1747563176669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
