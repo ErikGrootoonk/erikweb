@@ -16,15 +16,8 @@
   "bugs": {
     "url": "https://github.com/ErikGrootoonk/erikweb/issues"
   },
-  "homepage": "https://github.com/ErikGrootoonk/erikweb#readme",
-  "devDependencies": {
-    "autoprefixer": "^10.4.22",
-    "eslint": "^8.42.0",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^3.4.14",
-    "tailwindscss": "^0.3.0"
-  },
   "dependencies": {
-    "live-server": "^1.2.2"
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
   }
 }
