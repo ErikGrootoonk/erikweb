@@ -259,5 +259,53 @@
          "jaar": "1987",
          "beschrijving": "Two angels observe the lives of Berlin's inhabitants and long to experience human emotions and sensations.",
          "Taal": "D"
-        }
+        },
+        {"titel": "Poor Things",
+         "regiseur": "Yorgos Lanthimos",
+         "schrijver": "Yorgos Lanthimos, Efthymis Filippou",
+         "acteurs": "Emma Stone, Mark Ruffalo, Willem Dafoe",
+         "jaar": "2023",
+         "beschrijving": "A young woman is raised by her father in a Victorian-era setting and embarks on a journey of self-discovery and independence.",
+         "Taal": "ENG"
+        },
+        {"titel": "The Matrix",
+         "regiseur": "The Wachowskis",
+         "schrijver": "The Wachowskis",
+         "acteurs": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+         "jaar": "1999",
+         "beschrijving": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+         "Taal": "ENG"
+        },
+        {"titel": "Ex machina",
+         "regiseur": "Alex Garland",
+         "schrijver": "Alex Garland",
+         "acteurs": "Domhnall Gleeson, Alicia Vikander, Oscar Isaac",
+         "jaar": "2014",
+         "beschrijving": "A young programmer is selected to participate in a groundbreaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+         "Taal": "ENG"
+          },
+          {"titel": "Her",
+           "regiseur": "Spike Jonze",
+           "schrijver": "Spike Jonze",
+           "acteurs": "Joaquin Phoenix, Amy Adams, Scarlett Johansson",
+           "jaar": "2013",
+           "beschrijving": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
+           "Taal": "ENG"
+          },
+          {"titel": "Grounhog Day",
+           "regiseur": "Harold Ramis",
+           "schrijver": "Danny Rubin, Harold Ramis",
+           "acteurs": "Bill Murray, Andie MacDowell, Chris Elliott",
+           "jaar": "1993",
+           "beschrijving": "A weatherman finds himself inexplicably living the same day over and over again.",
+           "Taal": "ENG"
+          },
+          {"titel": "The Doors",
+           "regiseur": "Oliver Stone",
+           "schrijver": "Oliver Stone, Randall Jahnson",
+           "acteurs": "Val Kilmer, Meg Ryan, Kyle MacLachlan",
+           "jaar": "1991",
+           "beschrijving": "The story of the 1960s rock band The Doors and their lead singer Jim Morrison.",
+           "Taal": "ENG"
+          }
         ] 
