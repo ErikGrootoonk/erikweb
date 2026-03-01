@@ -1186,27 +1186,35 @@
     "achternaam": "Pryce",
     "titel": "Aberystwyth Mon Amour",
     "beschrijving": "Schoolboys are disappearing all over Aberystwyth and nobody knows why. Louie Knight, the town's private investigator, soon realises that it is going to take more than a double ripple from Sospan, the philosopher cum ice-cream seller, to help find out what is happening to these boys and whether or not Lovespoon, the Welsh teacher, Grand Wizard of the Druids and controller of the town, is more than just a sinister bully. And just who was Gwenno Guevara? ",
-    "Taal": "ENG"
+    "taal": "ENG"
   },
   {
     "voornaam": "John",
     "achternaam": "Banville",
     "titel": "Birchwood",
     "beschrijving": "Once the big house on an Irish estate, Birchwood has turned into a baroque madhouse for its ruined inhabitants. one disaster succeeds another, until young Gabriel Godkin runs away to join a travelling circus and look for his long-lost twin sister. Soon he discovers that famine and unrest stalk the countryside, and Ireland is ruined too.",
-    "Taal": "ENG"
+    "taal": "ENG"
   },
   {
     "voornaam": "qntm",
     "achternaam": "qntm",
     "titel": "There is no Antimemetics Division",
     "beschrijving": "Marie Quinn is the director of a department from a secretive organization (the \"Antimemetics Division\") that protects humanity from \"unknowns\", anomalous creatures that can erase themselves from the memories of all who view them. As the Antimemetics Division's research deepens, Quinn begins to uncover repressed memories and finds herself ensnared in a conspiracy that threatens all of reality. ",
-    "Taal": "ENG"
+    "taal": "ENG"
   },
   {
-    "voornaam": "Wilfrief",
+    "voornaam": "Wilfried",
     "achternaam": "de Jong",
     "titel": "Schwung",
     "beschrijving": "In Schwung neemt Wilfried de Jong ons mee naar de Italiaanse Claudia die met haar cassetterecorder lichaamsgeluiden van nieuwsgierige toeristen opneemt, de dakloze Ravi die in de Rotterdamse metro iedere dag dezelfde blues speelt, en de Tsjechische instrumentenbouwer Maria die de wonderlijkste materialen voor haar contrabassen kiest. In tien verhalen en een blues leidt De Jong ons door een spannende wereld van boeiende personages in een muzikaal decor.",
-    "Taal": "NL"
+    "taal": "NL"
+  },
+  {
+      "voornaam": "Hanna Thomas",
+      "achternaam": "Uose",
+      "titel": "Who wants to live forever",
+      "beschrijving": "Sam en Yuki zijn een gelukkig stel, totdat blijkt dat Sam niet zo'n tegenstander blijkt te zijnvan een kostbaar levensverlengend middel als Yuki",
+      "taal": "ENG"
   }
 ]
+
