@@ -626,5 +626,20 @@
       "jaar": "2001",
       "beschrijving": "Set in rural New Zealand in the 1990s, the film tells the story of the developing relationship of the adolescent Sam and his acerbic and alcoholic grandmother with an unconventional past, whom he has not met before.",
       "Taal": "ENG"
+  },
+  {"titel": "Tove",
+      "regiseur": "Zaida Bergroth",
+      "schrijver": "",
+      "acteurs":"Alma Pöysti, Krista Kosonen, Shanti Roney",
+      "jaar": "2020",
+      "beschrijving": "In het bruisende, naoorlogse Helsinki van 1946 probeert de eigenzinnige kunstenares Tove Jansson haar plek te vinden in de bohemiane kunstwereld. Ze worstelt met de druk van haar beroemde kunstenaarsfamilie en de kritische blik van haar vader, de succesvolle beeldhouwer Viktor Jansson. Haar relaties met een getrouwde politicus, een charismatische theaterregisseur en de zoektocht naar haar eigen identiteit vormen inspiratie voor haar inmiddels wereldberoemde Moemin-personages en schilderijen. Vastberaden kiest ze haar eigen pad: een leven gedreven door kunst, liefde en absolute vrijheid.",
+      "Taal": "FIN"
+  },
+  { "titel": "Black Dog",
+      "regiseur": "Guan Hu",
+      "acteurs": "Eddie Peng, Lia Tong, Jia Zhang-ke",
+      "beschrijving": "Na zijn vrijlating gaat voormalig stuntrijder en ex-gevangene Lang Yonghui aan de slag bij de lokale hondenpatrouille in een verlaten stadje in de Gobi-woestijn in China. Belast met het opruimen van zwerfhonden, komt Lang in aanraking met een opstandige zwarte hond. Aanvankelijk vijandig, blijken de twee al snel meer gemeen te hebben dan gedacht. Black Dog verweeft western, misdaad en intiem drama tot een teder en meeslepend portret van een bijzondere vriendschap tussen mens en dier.",
+      "jaar": "2024",
+      "Taal": "CHIN"
   }
 ]
