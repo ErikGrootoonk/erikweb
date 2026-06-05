@@ -354,3 +354,5 @@ MigrationBackup/
 
 # pycharm files
 .idea
+
+.DS_Store
